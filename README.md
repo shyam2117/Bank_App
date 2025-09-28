@@ -1,0 +1,1 @@
+ Designed and developed a web-based banking system using Java, Spring Boot, and MySQL.  Implemented RESTful APIs for account management, deposits, withdrawals, and fetching bank statements, including  by date range. Utilized Spring Web, Spring Data JPA (Hibernate) for data operations, and Postman for testing  endpoints.
